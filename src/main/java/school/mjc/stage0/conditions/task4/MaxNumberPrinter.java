@@ -5,6 +5,6 @@ public class MaxNumberPrinter {
 
         int result = first>second? first:second;
         result = result>third? result:third;
-        System.out.println(result);
+        System.out.println(result + "");
     }
 }
